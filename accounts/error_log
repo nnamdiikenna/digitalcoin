@@ -1,0 +1,12 @@
+[26-Nov-2020 04:31:24 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/crypcciz/public_html/management/conn/dbc.php on line 23
+[26-Nov-2020 04:31:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/crypcciz/public_html/management/conn/dbc.php on line 29
+[26-Nov-2020 04:31:24 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/crypcciz/public_html/management/conn/dbc.php on line 29
+[26-Nov-2020 04:41:05 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/crypcciz/public_html/management/conn/dbc.php on line 23
+[26-Nov-2020 04:41:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/crypcciz/public_html/management/conn/dbc.php on line 29
+[26-Nov-2020 04:41:05 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/crypcciz/public_html/management/conn/dbc.php on line 29
+[10-Dec-2020 08:35:36 America/New_York] PHP Warning:  Division by zero in /home/crypcciz/public_html/accounts/index.php on line 68
+[10-Dec-2020 08:35:36 America/New_York] PHP Warning:  Division by zero in /home/crypcciz/public_html/accounts/index.php on line 111
+[10-Dec-2020 08:35:36 America/New_York] PHP Warning:  Division by zero in /home/crypcciz/public_html/accounts/index.php on line 166
+[12-May-2021 09:54:17 America/New_York] PHP Warning:  Division by zero in /home/crypcciz/public_html/accounts/index.php on line 68
+[12-May-2021 09:54:17 America/New_York] PHP Warning:  Division by zero in /home/crypcciz/public_html/accounts/index.php on line 111
+[12-May-2021 09:54:17 America/New_York] PHP Warning:  Division by zero in /home/crypcciz/public_html/accounts/index.php on line 166
